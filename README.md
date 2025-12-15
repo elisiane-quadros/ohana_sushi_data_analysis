@@ -1,2 +1,6 @@
-# ohana_sushi_data_analysis
-Análise exploratória de dados de pedidos de um restaurante de sushi, utilizando dados sintéticos realistas, com foco em insights de negócio.
+# Ohana Sushi – Análise de Dados
+
+Projeto de análise exploratória baseado em dados sintéticos de pedidos de um restaurante de sushi em operação.
+
+Os dados foram simulados a partir de regras reais do negócio, com o objetivo de gerar insights e preparar a plataforma para decisões orientadas a dados.
+
